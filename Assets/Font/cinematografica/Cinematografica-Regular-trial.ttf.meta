@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f5dd93808a04dd744a6740f9d6ca5081
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cinematografica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54ef95147df86c242a9e3fffeefc5d38, type: 3}
+  - {fileID: 12800000, guid: c52a00dafba0a1d4d9db18d25721b92e, type: 3}
+  - {fileID: 12800000, guid: d2ec163974d3ff84790576f59ba6c93e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

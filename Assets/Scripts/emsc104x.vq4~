@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class MenuSelect : MonoBehaviour
+{
+    public void menuSelect()
+    {
+        switch(this.gameObject.name)
+        {
+            case("Settings"):
+                SceneManager.LoadScene("Settings");
+                break;
+            case ("Start"):
+                SceneManager.LoadScene("Start");
+                break;
+                
+        }
+    }
+}
